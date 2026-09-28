@@ -83,21 +83,24 @@ Currently working with **AWS and Microsoft Azure**, building and automating clou
 
 ## 📌 Featured Projects
 
-### ☁️ Azure Infrastructure with Terraform
+🤖 GenAI Gateway & Observability — AWS
+Provisioned AWS infrastructure using Terraform for a containerized LiteLLM AI Gateway running on Amazon ECS.
+Configured ECS, ECR, VPC, ALB, IAM and Secrets Manager for container deployment and cloud infrastructure.
+Implemented Grafana, Grafana Alloy and Grafana Tempo for dashboards, telemetry collection and distributed tracing.
+Automated infrastructure provisioning using Infrastructure as Code (Terraform).
 
-Infrastructure provisioning and automation using Terraform across Azure services.
+☸️ Kubernetes & GitOps
+Built Kubernetes deployment configurations using Argo CD and GitOps workflows.
+Worked with Kubernetes Deployments, Services, Ingress, HPA and progressive delivery configurations.
 
-### ☸️ Kubernetes & GitOps
+🔍 SonarQube & Liquibase CI/CD
+Maintained and supported existing Liquibase database deployment pipelines, ensuring reliable execution across environments.
+Configured and maintained CI/CD pipelines for applications using Liquibase for database change management.
+Worked with SonarQube integration in CI/CD pipelines for automated code-quality analysis.
+Supported troubleshooting and pipeline-related issues during application deployments.
 
-Kubernetes application deployment using **Argo CD**, GitOps workflows, deployments, services, ingress, HPA and progressive delivery.
-
-### 🔍 SonarQube CI/CD Integration
-
-Automated code-quality analysis integrated into CI/CD workflows for multiple application technologies.
-
-### 🗄️ Liquibase Database Automation
-
-Database schema and migration automation integrated with deployment workflows.
+☁️ Azure Infrastructure with Terraform
+Worked with Terraform-based Azure infrastructure and supported cloud resource provisioning and configuration.
 
 ---
 
