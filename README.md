@@ -1,86 +1,126 @@
-# Hi there, I'm Elangovan 👋
+# Hi, I'm Elangovan 👋
 
-> Junior DevOps Engineer focused on building, automating, and improving cloud infrastructure 🚀
+### Junior DevOps Engineer | AWS & Azure | Kubernetes | CI/CD | GitOps
 
-## 🎯 About Me
+I'm a **Junior DevOps Engineer** with hands-on experience in **cloud infrastructure, Kubernetes, CI/CD automation, Infrastructure as Code, and GitOps**.
 
-I'm a Junior DevOps Engineer with hands-on experience working with
-cloud infrastructure, containerization, Kubernetes, CI/CD, and
-infrastructure automation.
+Currently working with **AWS and Microsoft Azure**, building and automating cloud-native environments while continuously improving my skills across DevOps and platform engineering.
 
-Currently working with AWS & Azure and continuously improving my
-skills in cloud-native technologies and DevOps practices.
+---
+
+## 🚀 About Me
+
+* ☁️ Working with **AWS & Microsoft Azure**
+* ☸️ Building and managing **Kubernetes / AKS** environments
+* 🔄 Automating CI/CD pipelines and deployment workflows
+* 🏗️ Managing infrastructure using **Terraform & OpenTofu**
+* 🚀 Implementing **GitOps with Argo CD**
+* 🔐 Working with cloud security, IAM, and secrets management
+* ⚙️ Exploring **Internal Developer Platforms with Port.io**
+* 🐧 Comfortable with Linux and shell scripting
+
+---
 
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud
-- AWS
-- Microsoft Azure
-- EC2
-- ECS
-- S3
-- Lambda
-- IAM
-- VPC
-- AKS
-- ACR
 
-### 🚀 DevOps & CI/CD
-- Git
-- GitHub Actions
-- Concourse CI
-- Argo CD
-- SonarQube
-- Port.io
+`AWS` `Azure` `EC2` `ECS` `S3` `Lambda` `IAM` `VPC` `AKS` `ACR`
 
-### 📦 Containers & Kubernetes
-- Docker
-- Kubernetes
-- AKS
+### 🔄 DevOps & CI/CD
 
+`Git` `GitHub Actions` `Concourse CI` `Argo CD` `SonarQube` `Port.io`
+
+### ☸️ Containers & Kubernetes
+
+`Docker` `Kubernetes` `AKS` `Helm`
 
 ### 🏗️ Infrastructure as Code
-- Terraform
-- Opentofu
 
-### 🐧 Other
-- Linux
-- Bash/Shell Scripting
-- Python
-- YAML
-- GitOps
+`Terraform` `OpenTofu`
 
-## 💻 What I'm Working On
+### 💻 Programming & Scripting
 
-- ☁️ Cloud infrastructure on AWS & Azure
-- ☸️ Kubernetes & AKS
-- 🔄 CI/CD automation
-- 🏗️ Infrastructure as Code with Terraform
-- 🚀 GitOps with Argo CD
-- 🔐 Cloud security & secrets management
-- ⚙️ Developer self-service using Port.io
-
-## 📌 Featured Projects
-
-- ☁️ Azure Infrastructure with Terraform
-- 🔍 SonarQube Integration
-- 🗄️ Liquibase Database Automation
-- ☸️ Kubernetes & GitOps Projects
-
-## 📈 GitHub
-
-I'm continuously learning, building DevOps projects,
-and experimenting with cloud-native technologies.
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with DevOps engineers,
-cloud professionals, and people working on interesting
-infrastructure and automation problems.
-
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/s-elangovan-756a332a6/?isSelfProfile=true)
-- 📧 Email: elangovan2468@gmail.com
+`Python` `Bash` `YAML` `Linux`
 
 ---
 
-⭐ Feel free to explore my repositories!
+## 🔧 What I Work On
+
+**Cloud Infrastructure**
+
+* AWS and Azure infrastructure
+* Networking, IAM, compute, storage and cloud services
+* AKS and containerized workloads
+
+**CI/CD & Automation**
+
+* GitHub Actions
+* Concourse CI
+* Automated build, test and deployment workflows
+* SonarQube integration
+
+**Kubernetes & GitOps**
+
+* Kubernetes deployments and services
+* AKS cluster management
+* Argo CD GitOps workflows
+* Ingress, HPA and rollout strategies
+
+**Infrastructure as Code**
+
+* Terraform
+* OpenTofu
+* Reusable and automated infrastructure provisioning
+
+**Platform Engineering**
+
+* Port.io blueprints and self-service actions
+* Developer self-service workflows
+* GitHub workflow integration
+
+---
+
+## 📌 Featured Projects
+
+### ☁️ Azure Infrastructure with Terraform
+
+Infrastructure provisioning and automation using Terraform across Azure services.
+
+### ☸️ Kubernetes & GitOps
+
+Kubernetes application deployment using **Argo CD**, GitOps workflows, deployments, services, ingress, HPA and progressive delivery.
+
+### 🔍 SonarQube CI/CD Integration
+
+Automated code-quality analysis integrated into CI/CD workflows for multiple application technologies.
+
+### 🗄️ Liquibase Database Automation
+
+Database schema and migration automation integrated with deployment workflows.
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Kubernetes
+* Azure & AWS cloud architecture
+* GitOps & progressive delivery
+* Platform Engineering
+* Cloud security
+* Infrastructure automation
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with **DevOps engineers, Cloud professionals, SREs, and Platform Engineers** and learning from people building modern infrastructure and automation solutions.
+
+* 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/s-elangovan-756a332a6/)
+* 📧 **Email:** [elangovan2468@gmail.com](mailto:elangovan2468@gmail.com)
+
+---
+
+⭐ **Feel free to explore my repositories and projects.**
+
+**Keep learning. Keep building. Keep automating. 🚀**
